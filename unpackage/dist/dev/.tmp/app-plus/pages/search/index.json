@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "面试题",
+  "navigationBarBackgroundColor": "#434343",
+  "backgroundColorBottom": "#f2f2f2",
+  "backgroundColorTop": "#00CCFF",
+  "navigationBarTextStyle": "white",
+  "style": {
+    "enablePullDownRefresh": true
+  },
+  "titleNView": false
+}
